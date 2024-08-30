@@ -20,14 +20,17 @@ Weather Icons: The app displays an icon representing the current weather conditi
 Responsive Design: The app is styled using CSS to be visually appealing and is responsive across different devices, ensuring a good user experience on both desktop and mobile platforms.
 Gradual Transitions and Visibility Effects: The output card with the weather data becomes visible with smooth transitions, adding a layer of sophistication to the user interface.
 Project Structure
+
 HTML (index.html):
 
 Defines the structure of the app.
 Contains input fields for the city, a search button, and an output section for displaying weather information.
+
 CSS (styles.css):
 
 Styles the app with a modern, clean look, using gradients and subtle shadows.
 Provides responsive design rules to ensure compatibility with various screen sizes.
+
 JavaScript (app.js):
 
 Contains the logic to handle user input and fetch weather data from the API.
