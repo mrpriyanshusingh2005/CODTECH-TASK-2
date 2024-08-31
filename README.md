@@ -36,3 +36,6 @@ JavaScript (app.js):
 Contains the logic to handle user input and fetch weather data from the API.
 Updates the DOM elements dynamically based on the fetched data.
 Manages the visibility and styling of elements based on user interactions.
+
+![Screenshot (48)](https://github.com/user-attachments/assets/d2346277-063e-4dd1-a28c-1e79256261e6)
+
